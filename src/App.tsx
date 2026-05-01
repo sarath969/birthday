@@ -2,6 +2,7 @@ import React from 'react'
 import BirthdayLanding from './Landing'
 import About from './About'
 import Messages from './Messages'
+import Galleryphotos from './Galleryphotos'
 // import Gallery from './Gallery'
 
 const App : React.FC = () => {
@@ -9,7 +10,7 @@ const App : React.FC = () => {
     <div>
       <BirthdayLanding />
       <Messages />
-      {/* <Gallery /> */}
+      <Galleryphotos />
       <About/>  
     </div>
   )

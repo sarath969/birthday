@@ -78,9 +78,7 @@ export default function BirthdayLanding() {
             <button className="bg-pink-500 text-black font-semibold px-20 py-2 rounded-full border-2 border-gray-800 shadow-[3px_3px_0_#111827] hover:scale-105 transition">
               2 May
             </button>
-            <button className="bg-pink-400 text-black font-medium px-8 py-2 rounded-full border-2 border-gray-800 shadow-[3px_3px_0_#111827] hover:scale-105 transition">
-              Click Here Anjali ✉
-            </button>
+            
           </motion.div>
         </div>
 
