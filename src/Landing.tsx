@@ -20,7 +20,7 @@ export default function BirthdayLanding() {
             className="relative leading-none w-fit"
           >
             <motion.img
-              src="./src/assets/birthdayCap.png"
+              src="./birthdayCap.png"
               alt="birthday cap"
               initial={{ opacity: 0, y: -20, rotate: -25, scale: 0.8 }}
               animate={{
@@ -93,21 +93,21 @@ export default function BirthdayLanding() {
             className="w-80 h-80 rounded-full bg-[#d7be8c] p-3 shadow-xl"
           >
             <img
-              src="./src/assets/anjaliUSA.jpg"
+              src="./anjaliUSA.jpg"
               alt="avatar"
               className="w-full h-full object-cover rounded-full border-2 border-gray-900"
             />
           </motion.div>
 
           <motion.img
-            src="./src/assets/ballon1.png"
+            src="./ballon1.png"
             alt="balloon left"
             animate={{ y: [0, -10, 0] }}
             transition={{ duration: 2.4, repeat: Infinity, ease: "easeInOut" }}
             className="absolute -top-12 -left-16 w-20"
           />
           <motion.img
-            src="./src/assets/ballon1.png"
+            src="./ballon1.png"
             alt="balloon right"
             animate={{ y: [0, -8, 0] }}
             transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}

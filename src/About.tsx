@@ -19,7 +19,7 @@ const About = () => {
         {/* Left Image */}
         <div className="relative">
           <img
-            src="./src/assets/anjaliabout.png" // replace later
+            src="./anjaliabout.png" // replace later
             alt="her"
             className="rounded-2xl shadow-xl"
           />

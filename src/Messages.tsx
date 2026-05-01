@@ -7,7 +7,7 @@ export default function Messages() {
           <section className="relative border-b border-rose-100 bg-[#fffaf4] p-5 md:p-8 lg:border-b-0 lg:border-r">
             <div className="rounded-2xl border border-rose-200 bg-[#f9efe0] p-3 shadow-sm">
               <img
-                src="./src/assets/anjali2.jpeg"
+                src="./anjali2.jpeg"
                 alt="Magazine main portrait"
                 className="h-[520px] md:h-[620px] w-full rounded-xl object-cover"
               />
@@ -15,7 +15,7 @@ export default function Messages() {
 
             <div className="absolute bottom-12 right-6 md:right-10 w-40 md:w-56 rotate-[-4deg] rounded-xl border-4 border-white bg-white p-2 shadow-xl">
               <img
-                src="./src/assets/anjali.jpeg"
+                src="./anjali.jpeg"
                 alt="Magazine side portrait"
                 className="h-40 md:h-52 w-full rounded-md object-cover"
               />
@@ -29,7 +29,7 @@ export default function Messages() {
 
             <div className="absolute left-6 top-5 text-3xl">💘</div>
             <div className="absolute bottom-6 left-6 w-16 md:w-24">
-              <img src="./src/assets/flowers.png" alt="Flower decor" className="w-full object-contain" />
+              <img src="./flowers.png" alt="Flower decor" className="w-full object-contain" />
             </div>
           </section>
 
