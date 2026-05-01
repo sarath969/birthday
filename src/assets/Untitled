@@ -1,0 +1,5 @@
+<img
+                src="./src/assets/anjali5.jpeg"
+                alt="Magazine side portrait"
+                className="h-40 md:h-52 w-full object-cover rounded-md"
+              />
